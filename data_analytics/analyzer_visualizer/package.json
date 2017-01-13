@@ -1,0 +1,26 @@
+{
+  "name": "app4",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "amcharts": "^3.14.5",
+    "body-parser": "~1.15.2",
+    "bower": "^1.8.0",
+    "cookie-parser": "~1.4.3",
+    "d3": "^4.4.0",
+    "debug": "~2.2.0",
+    "express": "~4.14.0",
+    "highcharts": "^5.0.7",
+    "jade": "~1.11.0",
+    "mongodb": "^2.2.15",
+    "morgan": "~1.7.0",
+    "plotly": "^1.0.6",
+    "request": "^2.79.0",
+    "serve-favicon": "~2.3.0",
+    "socket.io": "^1.5.1",
+    "underscore": "^1.8.3"
+  }
+}

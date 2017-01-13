@@ -1,0 +1,2162 @@
+[
+ {
+   "university_code": "AA",
+   "university_name": "Altoona"
+ },
+ {
+   "university_code": "AAMU",
+   "university_name": "Alabama A&M University "
+ },
+ {
+   "university_code": "AB",
+   "university_name": "Alderson-Broaddus College "
+ },
+ {
+   "university_code": "ABCONLINE",
+   "university_name": "Arlington Baptist College "
+ },
+ {
+   "university_code": "ABINGTON",
+   "university_name": "Abington"
+ },
+ {
+   "university_code": "ABOUT",
+   "university_name": "Ferris State University "
+ },
+ {
+   "university_code": "ACA",
+   "university_name": "Atlanta College of Art "
+ },
+ {
+   "university_code": "ACC",
+   "university_name": "Atlanta Christian College "
+ },
+ {
+   "university_code": "ACME",
+   "university_name": "High Point University "
+ },
+ {
+   "university_code": "ACP",
+   "university_name": "Albany College of Pharmacy "
+ },
+ {
+   "university_code": "ACU",
+   "university_name": "Abilene Christian University "
+ },
+ {
+   "university_code": "ADAMS",
+   "university_name": "Adams State College "
+ },
+ {
+   "university_code": "ADELPHI",
+   "university_name": "Adelphi University "
+ },
+ {
+   "university_code": "ADLER",
+   "university_name": "Adler School of Professional Psychology "
+ },
+ {
+   "university_code": "ADRIAN",
+   "university_name": "Adrian College "
+ },
+ {
+   "university_code": "AFIT",
+   "university_name": "Air Force Institute of Technology "
+ },
+ {
+   "university_code": "AGUADILLA",
+   "university_name": "Aguadilla Campus"
+ },
+ {
+   "university_code": "AIC",
+   "university_name": "American International College "
+ },
+ {
+   "university_code": "AICAG",
+   "university_name": "American Indian College of the Assemblies of God "
+ },
+ {
+   "university_code": "AIUNIV",
+   "university_name": "American InterContinental University "
+ },
+ {
+   "university_code": "AKBIBLE",
+   "university_name": "Alaska Bible College "
+ },
+ {
+   "university_code": "ALASKA",
+   "university_name": "University of Alaska System "
+ },
+ {
+   "university_code": "ALASKAPACIFIC",
+   "university_name": "Alaska Pacific University "
+ },
+ {
+   "university_code": "ALASU",
+   "university_name": "Alabama State University "
+ },
+ {
+   "university_code": "ALBANY",
+   "university_name": "Albany"
+ },
+ {
+   "university_code": "ALBERTSON",
+   "university_name": "Albertson College of Idaho "
+ },
+ {
+   "university_code": "ALBERTUS",
+   "university_name": "Albertus Magnus College "
+ },
+ {
+   "university_code": "ALBION",
+   "university_name": "Albion College "
+ },
+ {
+   "university_code": "ALBIZU",
+   "university_name": "Carlos Albizu University "
+ },
+ {
+   "university_code": "ALBRIGHT",
+   "university_name": "Albright College "
+ },
+ {
+   "university_code": "ALC",
+   "university_name": "Alice Lloyd College "
+ },
+ {
+   "university_code": "ALCORN",
+   "university_name": "Alcorn State University "
+ },
+ {
+   "university_code": "ALFRED",
+   "university_name": "Alfred University "
+ },
+ {
+   "university_code": "ALFREDADLER",
+   "university_name": "Alfred Adler Institute "
+ },
+ {
+   "university_code": "ALFREDSTATE",
+   "university_name": "College of Technology at Alfred "
+ },
+ {
+   "university_code": "ALLEG",
+   "university_name": "Allegheny College "
+ },
+ {
+   "university_code": "ALLENCOLLEGE",
+   "university_name": "Allen College"
+ },
+ {
+   "university_code": "ARIZONA",
+   "university_name": "University of Arizona "
+ },
+ {
+   "university_code": "ASTATE",
+   "university_name": "Arkansas State University"
+ },
+ {
+   "university_code": "ASU",
+   "university_name": "Arizona State University "
+ },
+ {
+   "university_code": "ASUWEB",
+   "university_name": "Albany State University"
+ },
+ {
+   "university_code": "ATHENS",
+   "university_name": "Athens State University "
+ },
+ {
+   "university_code": "ATL",
+   "university_name": "DeVry University-Georgia "
+ },
+ {
+   "university_code": "BINGHAMTON",
+   "university_name": "Binghamton"
+ },
+ {
+   "university_code": "BIOLA",
+   "university_name": "Biola University "
+ },
+ {
+   "university_code": "BJU",
+   "university_name": "Bob Jones University "
+ },
+ {
+   "university_code": "BK",
+   "university_name": "Berks"
+ },
+ {
+   "university_code": "BLACKBURN",
+   "university_name": "Blackburn College "
+ },
+ {
+   "university_code": "BLC",
+   "university_name": "Bethany Lutheran College "
+ },
+ {
+   "university_code": "BLOOMFIELD",
+   "university_name": "Bloomfield College "
+ },
+ {
+   "university_code": "BLOOMU",
+   "university_name": "Bloomsburg University of Pennsylvania "
+ },
+ {
+   "university_code": "BLUEFIELD",
+   "university_name": "Bluefield College "
+ },
+ {
+   "university_code": "BLUEFIELD",
+   "university_name": "Bluefield State College "
+ },
+ {
+   "university_code": "BLUFFTON",
+   "university_name": "Bluffton University "
+ },
+ {
+   "university_code": "BMATS",
+   "university_name": "Baptist Missionary Association Theological Seminary "
+ },
+ {
+   "university_code": "BMC",
+   "university_name": "Blue Mountain College "
+ },
+ {
+   "university_code": "BORICUACOLLEGE",
+   "university_name": "Boricua College "
+ },
+ {
+   "university_code": "BOSTONCONSERVATORY",
+   "university_name": "Boston Conservatory "
+ },
+ {
+   "university_code": "BOWDOIN",
+   "university_name": "Bowdoin College "
+ },
+ {
+   "university_code": "BOWIESTATE",
+   "university_name": "Bowie State University "
+ },
+ {
+   "university_code": "BPC",
+   "university_name": "Brewton-Parker College "
+ },
+ {
+   "university_code": "BR",
+   "university_name": "Beaver"
+ },
+ {
+   "university_code": "BR",
+   "university_name": "Barranquitas Campus"
+ },
+ {
+   "university_code": "BRADLEY",
+   "university_name": "Bradley University "
+ },
+ {
+   "university_code": "BRANDEIS",
+   "university_name": "Brandeis University "
+ },
+ {
+   "university_code": "BRENAU",
+   "university_name": "Brenau University "
+ },
+ {
+   "university_code": "BRESCIA",
+   "university_name": "Brescia University "
+ },
+ {
+   "university_code": "BREVARD",
+   "university_name": "Brevard College "
+ },
+ {
+   "university_code": "BRIARCLIFF",
+   "university_name": "Briar Cliff College "
+ },
+ {
+   "university_code": "BRIDGEPORT",
+   "university_name": "University of Bridgeport "
+ },
+ {
+   "university_code": "BRIDGEW",
+   "university_name": "Bridgewater State College "
+ },
+ {
+   "university_code": "BRIDGEWATER",
+   "university_name": "Bridgewater College "
+ },
+ {
+   "university_code": "BROCKPORT",
+   "university_name": "College at Brockport"
+ },
+ {
+   "university_code": "BROOKLYN",
+   "university_name": "Brooklyn College"
+ },
+ {
+   "university_code": "BROOKLYN",
+   "university_name": "Brooklyn Campus"
+ },
+ {
+   "university_code": "BROWN",
+   "university_name": "Brown University "
+ },
+ {
+   "university_code": "BRYAN",
+   "university_name": "Bryan College "
+ },
+ {
+   "university_code": "BRYANT",
+   "university_name": "Bryant College "
+ },
+ {
+   "university_code": "BRYNATHYN",
+   "university_name": "Bryn Athyn College of the New Church "
+ },
+ {
+   "university_code": "BRYNMAWR",
+   "university_name": "Bryn Mawr College "
+ },
+ {
+   "university_code": "BSC",
+   "university_name": "Birmingham-Southern College "
+ },
+ {
+   "university_code": "BSU",
+   "university_name": "Ball State University "
+ },
+ {
+   "university_code": "BU",
+   "university_name": "Boston University "
+ },
+ {
+   "university_code": "BUCKNELL",
+   "university_name": "Bucknell University "
+ },
+ {
+   "university_code": "BUFFALO",
+   "university_name": "Buffalo"
+ },
+ {
+   "university_code": "BUFFALOSTATE",
+   "university_name": "College at Buffalo "
+ },
+ {
+   "university_code": "BURLCOL",
+   "university_name": "Burlington College "
+ },
+ {
+   "university_code": "BUTLER",
+   "university_name": "Butler University "
+ },
+ {
+   "university_code": "BVU",
+   "university_name": "Buena Vista University "
+ },
+ {
+   "university_code": "BW",
+   "university_name": "Baldwin-Wallace College "
+ },
+ {
+   "university_code": "BYU",
+   "university_name": "Brigham Young University "
+ },
+ {
+   "university_code": "BYUH",
+   "university_name": "Brigham Young University-Hawaii "
+ },
+ {
+   "university_code": "BYUI",
+   "university_name": "Brigham Young University-Idaho "
+ },
+ {
+   "university_code": "CABRINI",
+   "university_name": "Cabrini College "
+ },
+ {
+   "university_code": "CALTECH",
+   "university_name": "California Institute of Technology "
+ },
+ {
+   "university_code": "CALUMET",
+   "university_name": "Purdue University Calumet"
+ },
+ {
+   "university_code": "CALVARY",
+   "university_name": "Calvary Bible College & Theological Seminary "
+ },
+ {
+   "university_code": "CALVIN",
+   "university_name": "Calvin College "
+ },
+ {
+   "university_code": "CAMBRIDGECOLLEGE",
+   "university_name": "Cambridge College "
+ },
+ {
+   "university_code": "CAMDEN",
+   "university_name": "Camden"
+ },
+ {
+   "university_code": "CAMEL",
+   "university_name": "Connecticut College "
+ },
+ {
+   "university_code": "CAMERON",
+   "university_name": "Cameron University "
+ },
+ {
+   "university_code": "CAMPBELL",
+   "university_name": "Campbell University "
+ },
+ {
+   "university_code": "CAMPBELLSVILLE",
+   "university_name": "Campbellsville University "
+ },
+ {
+   "university_code": "CANISIUS",
+   "university_name": "Canisius College "
+ },
+ {
+   "university_code": "CANTON",
+   "university_name": "College of Technology at Canton"
+ },
+ {
+   "university_code": "CAPELLA",
+   "university_name": "Capella University "
+ },
+ {
+   "university_code": "CAPITAL",
+   "university_name": "Capital University "
+ },
+ {
+   "university_code": "CAPITOL-COLLEGE",
+   "university_name": "Capitol College "
+ },
+ {
+   "university_code": "CARIBBEAN",
+   "university_name": "Caribbean University "
+ },
+ {
+   "university_code": "CARLETON",
+   "university_name": "Carleton College "
+ },
+ {
+   "university_code": "CARLISLE",
+   "university_name": "United States Army War College "
+ },
+ {
+   "university_code": "CARLOW",
+   "university_name": "Carlow College "
+ },
+ {
+   "university_code": "CARROLL",
+   "university_name": "Carroll College "
+ },
+ {
+   "university_code": "CARTHAGE",
+   "university_name": "Carthage College "
+ },
+ {
+   "university_code": "CATAWBA",
+   "university_name": "Catawba College "
+ },
+ {
+   "university_code": "CAU",
+   "university_name": "Clark Atlanta University "
+ },
+ {
+   "university_code": "CAYEY",
+   "university_name": "Cayey"
+ },
+ {
+   "university_code": "CAZENOVIA",
+   "university_name": "Cazenovia College "
+ },
+ {
+   "university_code": "CBC",
+   "university_name": "Central Baptist College "
+ },
+ {
+   "university_code": "CBCAG",
+   "university_name": "Central Bible College "
+ },
+ {
+   "university_code": "CBU",
+   "university_name": "Christian Brothers University "
+ },
+ {
+   "university_code": "CC",
+   "university_name": "Carroll College "
+ },
+ {
+   "university_code": "CCA",
+   "university_name": "California College of the Arts "
+ },
+ {
+   "university_code": "CCAD",
+   "university_name": "Columbus College of Art & Design "
+ },
+ {
+   "university_code": "CCBBC",
+   "university_name": "Clear Creek Baptist Bible College "
+ },
+ {
+   "university_code": "CCCB",
+   "university_name": "Central Christian College of the Bible "
+ },
+ {
+   "university_code": "CCIS",
+   "university_name": "Columbia College "
+ },
+ {
+   "university_code": "CCNY",
+   "university_name": "City College"
+ },
+ {
+   "university_code": "CCSCAD",
+   "university_name": "College for Creative Studies "
+ },
+ {
+   "university_code": "CCSJ",
+   "university_name": "Calumet College of St. Joseph "
+ },
+ {
+   "university_code": "CCSU",
+   "university_name": "Central Connecticut State University "
+ },
+ {
+   "university_code": "CCU",
+   "university_name": "Colorado Christian University "
+ },
+ {
+   "university_code": "CCUNIVERSITY",
+   "university_name": "Cincinnati Christian University "
+ },
+ {
+   "university_code": "CDREWU",
+   "university_name": "Charles R. Drew University of Medicine & Science "
+ },
+ {
+   "university_code": "CDSP",
+   "university_name": "Church Divinity School of the Pacific "
+ },
+ {
+   "university_code": "CEDARCREST",
+   "university_name": "Cedar Crest College "
+ },
+ {
+   "university_code": "CEDARVILLE",
+   "university_name": "Cedarville University "
+ },
+ {
+   "university_code": "CENTENARY",
+   "university_name": "Centenary College of Louisiana "
+ },
+ {
+   "university_code": "CENTENARYCOLLEGE",
+   "university_name": "Centenary College "
+ },
+ {
+   "university_code": "CENTRAL",
+   "university_name": "Central College "
+ },
+ {
+   "university_code": "CENTRALCOLLEGE",
+   "university_name": "Central Christian College "
+ },
+ {
+   "university_code": "CENTRALMETHODIST",
+   "university_name": "Central Methodist University "
+ },
+ {
+   "university_code": "CENTRALSTATE",
+   "university_name": "Central State University "
+ },
+ {
+   "university_code": "CENTRE",
+   "university_name": "Centre College "
+ },
+ {
+   "university_code": "CEU",
+   "university_name": "College of Eastern Utah "
+ },
+ {
+   "university_code": "CGU",
+   "university_name": "Claremont Graduate University"
+ },
+ {
+   "university_code": "CHAMINADE",
+   "university_name": "Chaminade University "
+ },
+ {
+   "university_code": "CHAMPLAIN",
+   "university_name": "Champlain College "
+ },
+ {
+   "university_code": "CHAPMAN",
+   "university_name": "Chapman University "
+ },
+ {
+   "university_code": "CHARTEROAK",
+   "university_name": "Charter Oak State College "
+ },
+ {
+   "university_code": "CHATHAM",
+   "university_name": "Chatham College "
+ },
+ {
+   "university_code": "CHC",
+   "university_name": "Chestnut Hill College "
+ },
+ {
+   "university_code": "CHESAPEAKE",
+   "university_name": "Chesapeake College "
+ },
+ {
+   "university_code": "CHESTERCOLLEGE",
+   "university_name": "Chester College of New England "
+ },
+ {
+   "university_code": "CHEYNEY",
+   "university_name": "Cheyney University "
+ },
+ {
+   "university_code": "CHI",
+   "university_name": "DeVry University-Chicago "
+ },
+ {
+   "university_code": "CHIPOLA",
+   "university_name": "Chipola College "
+ },
+ {
+   "university_code": "CHOWAN",
+   "university_name": "Chowan College "
+ },
+ {
+   "university_code": "CHRISTENDOM",
+   "university_name": "Christendom College "
+ },
+ {
+   "university_code": "CIA",
+   "university_name": "Cleveland Institute of Art "
+ },
+ {
+   "university_code": "CIACHEF",
+   "university_name": "Culinary Institute of America "
+ },
+ {
+   "university_code": "CIIS",
+   "university_name": "California Institute of Integral Studies "
+ },
+ {
+   "university_code": "CIM",
+   "university_name": "Cleveland Institute of Music "
+ },
+ {
+   "university_code": "CITADEL",
+   "university_name": "The Citadel "
+ },
+ {
+   "university_code": "CITYTECH",
+   "university_name": "New York City College of Technology"
+ },
+ {
+   "university_code": "CITYU",
+   "university_name": "City University "
+ },
+ {
+   "university_code": "CIU",
+   "university_name": "Columbia International University "
+ },
+ {
+   "university_code": "CLAFLIN",
+   "university_name": "Claflin University "
+ },
+ {
+   "university_code": "CLAREMONT",
+   "university_name": "Claremont Consortium of Colleges "
+ },
+ {
+   "university_code": "CLARION",
+   "university_name": "Clarion University of Pennsylvania "
+ },
+ {
+   "university_code": "CLARKE",
+   "university_name": "Clarke College "
+ },
+ {
+   "university_code": "CLARKSON",
+   "university_name": "Clarkson University "
+ },
+ {
+   "university_code": "CLARKSONCOLLEGE",
+   "university_name": "Clarkson College "
+ },
+ {
+   "university_code": "CLARKU",
+   "university_name": "Clark University "
+ },
+ {
+   "university_code": "CLAYTON",
+   "university_name": "Clayton College & State University"
+ },
+ {
+   "university_code": "CLEARWATER",
+   "university_name": "Clearwater Christian College "
+ },
+ {
+   "university_code": "CLEARY",
+   "university_name": "Cleary College "
+ },
+ {
+   "university_code": "CLEMSON",
+   "university_name": "Clemson University "
+ },
+ {
+   "university_code": "CLEVELAND",
+   "university_name": "Cleveland Chiropractic College "
+ },
+ {
+   "university_code": "FAJARDO",
+   "university_name": "Fajardo Campus"
+ },
+ {
+   "university_code": "FAMU",
+   "university_name": "Florida Agricultural & Mechanical University "
+ },
+ {
+   "university_code": "FANDM",
+   "university_name": "Franklin & Marshall College "
+ },
+ {
+   "university_code": "FARMINGDALE",
+   "university_name": "College of Technology at Farmingdale "
+ },
+ {
+   "university_code": "FAU",
+   "university_name": "Florida Atlantic University "
+ },
+ {
+   "university_code": "FAULKNER",
+   "university_name": "Faulkner University "
+ },
+ {
+   "university_code": "FCC",
+   "university_name": "Florida Christian College "
+ },
+ {
+   "university_code": "FDU",
+   "university_name": "Fairleigh Dickinson University "
+ },
+ {
+   "university_code": "FE",
+   "university_name": "Fayette"
+ },
+ {
+   "university_code": "FELICIAN",
+   "university_name": "Felician College "
+ },
+ {
+   "university_code": "FERRUM",
+   "university_name": "Ferrum College "
+ },
+ {
+   "university_code": "FGCU",
+   "university_name": "Florida Gulf Coast University "
+ },
+ {
+   "university_code": "FHCHS",
+   "university_name": "Florida Hospital College of Health Sciences "
+ },
+ {
+   "university_code": "FHSU",
+   "university_name": "Fort Hays State University "
+ },
+ {
+   "university_code": "FHU",
+   "university_name": "Freed-Hardeman University "
+ },
+ {
+   "university_code": "FIELDING",
+   "university_name": "Fielding Graduate Institute "
+ },
+ {
+   "university_code": "FINDLAY",
+   "university_name": "The University of Findlay "
+ },
+ {
+   "university_code": "FINLANDIA",
+   "university_name": "Finlandia University "
+ },
+ {
+   "university_code": "FISK",
+   "university_name": "Fisk University "
+ },
+ {
+   "university_code": "FIT",
+   "university_name": "Florida Institute of Technology "
+ },
+ {
+   "university_code": "FITNYC",
+   "university_name": "Fashion Institute of Technology"
+ },
+ {
+   "university_code": "FIU",
+   "university_name": "Florida International University "
+ },
+ {
+   "university_code": "GBOROCOLLEGE",
+   "university_name": "Greensboro College "
+ },
+ {
+   "university_code": "GC",
+   "university_name": "Graduate School & University Center"
+ },
+ {
+   "university_code": "GCC",
+   "university_name": "Grove City College "
+ },
+ {
+   "university_code": "GCSU",
+   "university_name": "Georgia College & State University"
+ },
+ {
+   "university_code": "GCU",
+   "university_name": "Grand Canyon University "
+ },
+ {
+   "university_code": "GENEVA",
+   "university_name": "Geneva College "
+ },
+ {
+   "university_code": "GEORGEFOX",
+   "university_name": "George Fox University "
+ },
+ {
+   "university_code": "GEORGEMEANY",
+   "university_name": "National Labor College "
+ },
+ {
+   "university_code": "GEORGETOWN",
+   "university_name": "Georgetown University "
+ },
+ {
+   "university_code": "GEORGETOWNCOLLEGE",
+   "university_name": "Georgetown College "
+ },
+ {
+   "university_code": "GEORGIAN",
+   "university_name": "Georgian Court College "
+ },
+ {
+   "university_code": "GEORGIASOUTHERN",
+   "university_name": "Georgia Southern University"
+ },
+ {
+   "university_code": "GETTYSBURG",
+   "university_name": "Gettysburg College "
+ },
+ {
+   "university_code": "GGU",
+   "university_name": "Golden Gate University "
+ },
+ {
+   "university_code": "GLENVILLE",
+   "university_name": "Glenville State College "
+ },
+ {
+   "university_code": "GMC",
+   "university_name": "Gwynedd Mercy College "
+ },
+ {
+   "university_code": "GMU",
+   "university_name": "George Mason University "
+ },
+ {
+   "university_code": "GODDARD",
+   "university_name": "Goddard College "
+ },
+ {
+   "university_code": "GOLDEY",
+   "university_name": "Goldey-Beacom College "
+ },
+ {
+   "university_code": "GONZAGA",
+   "university_name": "Gonzaga University "
+ },
+ {
+   "university_code": "HAMPTONU",
+   "university_name": "Hampton University "
+ },
+ {
+   "university_code": "HANOVER",
+   "university_name": "Hanover College "
+ },
+ {
+   "university_code": "HARDING",
+   "university_name": "Harding University "
+ },
+ {
+   "university_code": "HARTFORD",
+   "university_name": "University of Hartford "
+ },
+ {
+   "university_code": "HARTWICK",
+   "university_name": "Hartwick College "
+ },
+ {
+   "university_code": "HARVARD",
+   "university_name": "Harvard University "
+ },
+ {
+   "university_code": "HASKELL",
+   "university_name": "Haskell Indian Nations University "
+ },
+ {
+   "university_code": "HASTINGS",
+   "university_name": "Hastings College "
+ },
+ {
+   "university_code": "HAVERFORD",
+   "university_name": "Haverford College in Pennsylvania "
+ },
+ {
+   "university_code": "HAWAII",
+   "university_name": "University of Hawaii System "
+ },
+ {
+   "university_code": "HBG",
+   "university_name": "Harrisburg"
+ },
+ {
+   "university_code": "HBU",
+   "university_name": "Houston Baptist University "
+ },
+ {
+   "university_code": "HCC-ND",
+   "university_name": "Holy Cross College "
+ },
+ {
+   "university_code": "HEALTHSCIENCES",
+   "university_name": "Center for Health Sciences"
+ },
+ {
+   "university_code": "HEIDELBERG",
+   "university_name": "Heidelberg College "
+ },
+ {
+   "university_code": "HENDRIX",
+   "university_name": "Hendrix College "
+ },
+ {
+   "university_code": "HENRYCOGSWELL",
+   "university_name": "Henry Cogswell College "
+ },
+ {
+   "university_code": "HERITAGE",
+   "university_name": "Heritage University "
+ },
+ {
+   "university_code": "HESSTON",
+   "university_name": "Hesston College "
+ },
+ {
+   "university_code": "HGC",
+   "university_name": "Rensselaer at Hartford "
+ },
+ {
+   "university_code": "HILBERT",
+   "university_name": "Hilbert College "
+ },
+ {
+   "university_code": "HILLSDALE",
+   "university_name": "Hillsdale College "
+ },
+ {
+   "university_code": "HIRAM",
+   "university_name": "Hiram College "
+ },
+ {
+   "university_code": "HIU",
+   "university_name": "Hope International University "
+ },
+ {
+   "university_code": "HLG",
+   "university_name": "Hannibal-Lagrange College "
+ },
+ {
+   "university_code": "HMC",
+   "university_name": "Harvey Mudd College"
+ },
+ {
+   "university_code": "HMC",
+   "university_name": "College of Medicine"
+ },
+ {
+   "university_code": "HN",
+   "university_name": "Hazleton"
+ },
+ {
+   "university_code": "ILSTU",
+   "university_name": "Illinois State University "
+ },
+ {
+   "university_code": "IMMACULATA",
+   "university_name": "Immaculata College "
+ },
+ {
+   "university_code": "INDIANA",
+   "university_name": "Indiana University System "
+ },
+ {
+   "university_code": "INDIANATECH",
+   "university_name": "Indiana Institute of Technology "
+ },
+ {
+   "university_code": "INDWES",
+   "university_name": "Indiana Wesleyan University "
+ },
+ {
+   "university_code": "INFOEAGLE",
+   "university_name": "Boston College "
+ },
+ {
+   "university_code": "INTER",
+   "university_name": "Universidad Interamericana de Puerto Rico "
+ },
+ {
+   "university_code": "INTERNATIONALCOLLEGE",
+   "university_name": "International College "
+ },
+ {
+   "university_code": "IONA",
+   "university_name": "Iona College "
+ },
+ {
+   "university_code": "IPFW",
+   "university_name": "Indiana University/Purdue University at Fort Wayne"
+ },
+ {
+   "university_code": "IPFW",
+   "university_name": "Indiana University/Purdue University at Fort Wayne"
+ },
+ {
+   "university_code": "IPSCIENCES",
+   "university_name": "Institute for the Psychological Sciences "
+ },
+ {
+   "university_code": "IPST",
+   "university_name": "Institute of Paper Science & Technology "
+ },
+ {
+   "university_code": "ISU",
+   "university_name": "Idaho State University "
+ },
+ {
+   "university_code": "ITC",
+   "university_name": "Interdenominational Theological Center "
+ },
+ {
+   "university_code": "ITHACA",
+   "university_name": "Ithaca College "
+ },
+ {
+   "university_code": "ITP",
+   "university_name": "Institute of Transpersonal Psychology "
+ },
+ {
+   "university_code": "ITT",
+   "university_name": "Institute of Textile Technology "
+ },
+ {
+   "university_code": "IUB",
+   "university_name": "Indiana University-Bloomington"
+ },
+ {
+   "university_code": "IUE",
+   "university_name": "Indiana University-East"
+ },
+ {
+   "university_code": "IUK",
+   "university_name": "Indiana University-Kokomo"
+ },
+ {
+   "university_code": "IUN",
+   "university_name": "Indiana University-Northwest"
+ },
+ {
+   "university_code": "JBU",
+   "university_name": "John Brown University "
+ },
+ {
+   "university_code": "JC",
+   "university_name": "Jamestown College "
+ },
+ {
+   "university_code": "JCHS",
+   "university_name": "Jefferson College of Health Sciences "
+ },
+ {
+   "university_code": "JCSU",
+   "university_name": "Johnson C. Smith University "
+ },
+ {
+   "university_code": "JCU",
+   "university_name": "John Carroll University "
+ },
+ {
+   "university_code": "JEFFERSON",
+   "university_name": "Thomas Jefferson University "
+ },
+ {
+   "university_code": "JESSUP",
+   "university_name": "William Jessup University "
+ },
+ {
+   "university_code": "JEWELL",
+   "university_name": "William Jewell College "
+ },
+ {
+   "university_code": "JFKU",
+   "university_name": "John F. Kennedy University "
+ },
+ {
+   "university_code": "JHU",
+   "university_name": "Johns Hopkins University "
+ },
+ {
+   "university_code": "JJAY",
+   "university_name": "John Jay College of Criminal Justice"
+ },
+ {
+   "university_code": "JMU",
+   "university_name": "James Madison University "
+ },
+ {
+   "university_code": "JONES",
+   "university_name": "Jones College "
+ },
+ {
+   "university_code": "JONESINTERNATIONAL",
+   "university_name": "Jones International University "
+ },
+ {
+   "university_code": "JSC",
+   "university_name": "Johnson State College "
+ },
+ {
+   "university_code": "JSTB",
+   "university_name": "Jesuit School of Theology at Berkeley "
+ },
+ {
+   "university_code": "JSU",
+   "university_name": "Jacksonville State University "
+ },
+ {
+   "university_code": "JSUMS",
+   "university_name": "Jackson State University "
+ },
+ {
+   "university_code": "JTSA",
+   "university_name": "The Jewish Theological Seminary of America "
+ },
+ {
+   "university_code": "JU",
+   "university_name": "Jacksonville University "
+ },
+ {
+   "university_code": "JUDSONCOLLEGE",
+   "university_name": "Judson College "
+ },
+ {
+   "university_code": "JUILLIARD",
+   "university_name": "The Juilliard School "
+ },
+ {
+   "university_code": "JUNIATA",
+   "university_name": "Juniata College "
+ },
+ {
+   "university_code": "JWU",
+   "university_name": "Johnson & Wales University "
+ },
+ {
+   "university_code": "JWU",
+   "university_name": "Johnson & Wales University-Charleston "
+ },
+ {
+   "university_code": "KAPLAN",
+   "university_name": "Kaplan University "
+ },
+ {
+   "university_code": "KC",
+   "university_name": "DeVry University-Kansas City "
+ },
+ {
+   "university_code": "KCAD",
+   "university_name": "Kendall College of Art & Design "
+ },
+ {
+   "university_code": "KCOM",
+   "university_name": "Kirksville College of Osteopathic Medicine "
+ },
+ {
+   "university_code": "KCU",
+   "university_name": "Kentucky Christian University "
+ },
+ {
+   "university_code": "KEAN",
+   "university_name": "Kean University "
+ },
+ {
+   "university_code": "KEENE",
+   "university_name": "Keene State College "
+ },
+ {
+   "university_code": "KEISERCOLLEGE",
+   "university_name": "Keiser College "
+ },
+ {
+   "university_code": "KENDALL",
+   "university_name": "Kendall College "
+ },
+ {
+   "university_code": "KENNESAW",
+   "university_name": "Kennesaw State University"
+ },
+ {
+   "university_code": "KENT",
+   "university_name": "Kent State University "
+ },
+ {
+   "university_code": "KENYON",
+   "university_name": "Kenyon College "
+ },
+ {
+   "university_code": "KETTERING",
+   "university_name": "Kettering University "
+ },
+ {
+   "university_code": "KEUKA",
+   "university_name": "Keuka College "
+ },
+ {
+   "university_code": "KEYSTONE",
+   "university_name": "Keystone College "
+ },
+ {
+   "university_code": "KGI",
+   "university_name": "Keck Graduate Institute of Applied Life Sciences"
+ },
+ {
+   "university_code": "KING",
+   "university_name": "King College "
+ },
+ {
+   "university_code": "KINGS",
+   "university_name": "King's College "
+ },
+ {
+   "university_code": "KMBC",
+   "university_name": "Kentucky Mountain Bible College "
+ },
+ {
+   "university_code": "KNOX",
+   "university_name": "Knox College "
+ },
+ {
+   "university_code": "KNOXVILLECOLLEGE",
+   "university_name": "Knoxville College"
+ },
+ {
+   "university_code": "K-STATE",
+   "university_name": "Kansas State University "
+ },
+ {
+   "university_code": "KU",
+   "university_name": "University of Kansas "
+ },
+ {
+   "university_code": "KUMC",
+   "university_name": "University of Kansas Medical Center "
+ },
+ {
+   "university_code": "KUTZTOWN",
+   "university_name": "Kutztown University of Pennsylvania "
+ },
+ {
+   "university_code": "KUYPER",
+   "university_name": "Kuyper College "
+ },
+ {
+   "university_code": "KWC",
+   "university_name": "Kentucky Wesleyan College "
+ },
+ {
+   "university_code": "KWU",
+   "university_name": "Kansas Wesleyan University "
+ },
+ {
+   "university_code": "KYSU",
+   "university_name": "Kentucky State University "
+ },
+ {
+   "university_code": "KZOO",
+   "university_name": "Kalamazoo College "
+ },
+ {
+   "university_code": "LACOLLEGE",
+   "university_name": "Louisiana College "
+ },
+ {
+   "university_code": "LAFAYETTE",
+   "university_name": "Lafayette College "
+ },
+ {
+   "university_code": "LAGRANGE",
+   "university_name": "LaGrange College "
+ },
+ {
+   "university_code": "LAKEFOREST",
+   "university_name": "Lake Forest College "
+ },
+ {
+   "university_code": "LAKEFORESTMBA",
+   "university_name": "Lake Forest Graduate School of Management "
+ },
+ {
+   "university_code": "LAKELAND",
+   "university_name": "Lakeland College "
+ },
+ {
+   "university_code": "LAKEVIEWCOL",
+   "university_name": "Lakeview College of Nursing "
+ },
+ {
+   "university_code": "LAMAR",
+   "university_name": "Lamar University "
+ },
+ {
+   "university_code": "LAMBUTH",
+   "university_name": "Lambuth University "
+ },
+ {
+   "university_code": "LANDER",
+   "university_name": "Lander University "
+ },
+ {
+   "university_code": "LANECOLLEGE",
+   "university_name": "Lane College "
+ },
+ {
+   "university_code": "LAROCHE",
+   "university_name": "La Roche College "
+ },
+ {
+   "university_code": "LASALLE",
+   "university_name": "LaSalle University "
+ },
+ {
+   "university_code": "LASELL",
+   "university_name": "Lasell College "
+ },
+ {
+   "university_code": "LASIERRA",
+   "university_name": "La Sierra University "
+ },
+ {
+   "university_code": "LATECH",
+   "university_name": "Louisiana Tech University "
+ },
+ {
+   "university_code": "MA",
+   "university_name": "Mont Alto"
+ },
+ {
+   "university_code": "MAC",
+   "university_name": "McMurray College "
+ },
+ {
+   "university_code": "MACALESTER",
+   "university_name": "Macalester College "
+ },
+ {
+   "university_code": "MACDB",
+   "university_name": "Embry-Riddle Aeronautical University "
+ },
+ {
+   "university_code": "MACONSTATE",
+   "university_name": "Macon State College"
+ },
+ {
+   "university_code": "MACU",
+   "university_name": "Mid-America Christian University "
+ },
+ {
+   "university_code": "MADONNA",
+   "university_name": "Madonna University "
+ },
+ {
+   "university_code": "MAGNOLIA",
+   "university_name": "Magnolia Bible College "
+ },
+ {
+   "university_code": "MAINE",
+   "university_name": "University of Maine System "
+ },
+ {
+   "university_code": "MAINELAW",
+   "university_name": "School of Law"
+ },
+ {
+   "university_code": "MAINEMARITIME",
+   "university_name": "Maine Maritime Academy "
+ },
+ {
+   "university_code": "MALONE",
+   "university_name": "Malone College "
+ },
+ {
+   "university_code": "MANCHESTER",
+   "university_name": "Manchester College "
+ },
+ {
+   "university_code": "MANHATTAN",
+   "university_name": "Manhattan College "
+ },
+ {
+   "university_code": "MANSFIELD",
+   "university_name": "Mansfield University of Pennsylvania "
+ },
+ {
+   "university_code": "MANSFIELD",
+   "university_name": "Mansfield"
+ },
+ {
+   "university_code": "MARIAN",
+   "university_name": "Marian College "
+ },
+ {
+   "university_code": "MCU",
+   "university_name": "United States Marine Corps University "
+ },
+ {
+   "university_code": "MCU",
+   "university_name": "Marine Corps University "
+ },
+ {
+   "university_code": "MCW",
+   "university_name": "Medical College of Wisconsin "
+ },
+ {
+   "university_code": "MDANDERSON",
+   "university_name": "M.D. Anderson Cancer Center"
+ },
+ {
+   "university_code": "MEC",
+   "university_name": "Medger Evers College"
+ },
+ {
+   "university_code": "MECA",
+   "university_name": "Maine College of Art "
+ },
+ {
+   "university_code": "MTECH",
+   "university_name": "Montana Tech"
+ },
+ {
+   "university_code": "MTHOLYOKE",
+   "university_name": "Mount Holyoke College "
+ },
+ {
+   "university_code": "MTMARY",
+   "university_name": "Mount Mary College "
+ },
+ {
+   "university_code": "MTMC",
+   "university_name": "Mount Marty College "
+ },
+ {
+   "university_code": "MTMERCY",
+   "university_name": "Mount Mercy College "
+ },
+ {
+   "university_code": "MTSU",
+   "university_name": "Middle Tennessee State University "
+ },
+ {
+   "university_code": "MTU",
+   "university_name": "Michigan Technological University "
+ },
+ {
+   "university_code": "MU",
+   "university_name": "Marquette University "
+ },
+ {
+   "university_code": "MUC",
+   "university_name": "Mount Union College "
+ },
+ {
+   "university_code": "MUHLBERG",
+   "university_name": "Muhlenberg College "
+ },
+ {
+   "university_code": "MULTNOMAH",
+   "university_name": "Multnomah Bible College & Seminary "
+ },
+ {
+   "university_code": "MUM",
+   "university_name": "Maharishi University of Management "
+ },
+ {
+   "university_code": "MURRAYSTATE",
+   "university_name": "Murray State University "
+ },
+ {
+   "university_code": "MUSC",
+   "university_name": "Medical University of South Carolina "
+ },
+ {
+   "university_code": "MUSKINGUM",
+   "university_name": "Muskingum College "
+ },
+ {
+   "university_code": "MUW",
+   "university_name": "Mississippi University for Women "
+ },
+ {
+   "university_code": "MUWEB",
+   "university_name": "Millersville University of Pennsylvania "
+ },
+ {
+   "university_code": "NIU",
+   "university_name": "Northern Illinois University "
+ },
+ {
+   "university_code": "NJCU",
+   "university_name": "New Jersey City University "
+ },
+ {
+   "university_code": "NJIT",
+   "university_name": "New Jersey Institute of Technology "
+ },
+ {
+   "university_code": "NK",
+   "university_name": "New Kensington"
+ },
+ {
+   "university_code": "NKU",
+   "university_name": "Northern Kentucky University "
+ },
+ {
+   "university_code": "NL",
+   "university_name": "National-Louis University "
+ },
+ {
+   "university_code": "NMHU",
+   "university_name": "New Mexico Highlands University "
+ },
+ {
+   "university_code": "NMSU",
+   "university_name": "New Mexico State University "
+ },
+ {
+   "university_code": "NMT",
+   "university_name": "New Mexico Institute of Mining & Technology "
+ },
+ {
+   "university_code": "NMU",
+   "university_name": "Northern Michigan University "
+ },
+ {
+   "university_code": "NNU",
+   "university_name": "Northwest Nazarene University "
+ },
+ {
+   "university_code": "NOBTS",
+   "university_name": "New Orleans Baptist Theological Seminary "
+ },
+ {
+   "university_code": "NOCTRL",
+   "university_name": "North Central College "
+ },
+ {
+   "university_code": "NORTHCENTRAL",
+   "university_name": "North Central University "
+ },
+ {
+   "university_code": "NORTHEASTERN",
+   "university_name": "Northeastern University "
+ },
+ {
+   "university_code": "NORTHERN",
+   "university_name": "Northern State University "
+ },
+ {
+   "university_code": "NORTHLAND",
+   "university_name": "Northland College "
+ },
+ {
+   "university_code": "NORTHPARK",
+   "university_name": "North Park University "
+ },
+ {
+   "university_code": "NORTHWESTERN",
+   "university_name": "Northwestern University "
+ },
+ {
+   "university_code": "NORTHWESTU",
+   "university_name": "Northwest University "
+ },
+ {
+   "university_code": "NORTHWOOD",
+   "university_name": "Northwood University "
+ },
+ {
+   "university_code": "NORWICH",
+   "university_name": "Norwich University "
+ },
+ {
+   "university_code": "NOTREDAMECOLLEGE",
+   "university_name": "Notre Dame College "
+ },
+ {
+   "university_code": "NOVA",
+   "university_name": "Nova Southeastern University "
+ },
+ {
+   "university_code": "NPS",
+   "university_name": "Naval Postgraduate School "
+ },
+ {
+   "university_code": "NSU",
+   "university_name": "Norfolk State University "
+ },
+ {
+   "university_code": "NSUBA",
+   "university_name": "Broken Arrow campus"
+ },
+ {
+   "university_code": "NSULA",
+   "university_name": "Northwestern State University of Louisiana "
+ },
+ {
+   "university_code": "NSUOK",
+   "university_name": "Northeastern State University "
+ },
+ {
+   "university_code": "NSUOK",
+   "university_name": "Muskogee campus"
+ },
+ {
+   "university_code": "NTU",
+   "university_name": "National Technological University "
+ },
+ {
+   "university_code": "NU",
+   "university_name": "National University "
+ },
+ {
+   "university_code": "OGI",
+   "university_name": "Oregon Graduate Institute of Science & Technology "
+ },
+ {
+   "university_code": "OGLETHORPE",
+   "university_name": "Oglethorpe University "
+ },
+ {
+   "university_code": "OHIO",
+   "university_name": "Ohio University "
+ },
+ {
+   "university_code": "OHIODOMINICAN",
+   "university_name": "Ohio Dominican University "
+ },
+ {
+   "university_code": "OHSU",
+   "university_name": "Oregon Health Sciences University "
+ },
+ {
+   "university_code": "OIT",
+   "university_name": "Oregon Institute of Technology "
+ },
+ {
+   "university_code": "OKBU",
+   "university_name": "Oklahoma Baptist University "
+ },
+ {
+   "university_code": "OKCU",
+   "university_name": "Oklahoma City University "
+ },
+ {
+   "university_code": "OKSTATE",
+   "university_name": "Stillwater"
+ },
+ {
+   "university_code": "OKWU",
+   "university_name": "Oklahoma Wesleyan University "
+ },
+ {
+   "university_code": "OLC",
+   "university_name": "Oglala Lakota College "
+ },
+ {
+   "university_code": "OLDWESTBURY",
+   "university_name": "College at Old Westbury"
+ },
+ {
+   "university_code": "OLEMISS",
+   "university_name": "University of Mississippi "
+ },
+ {
+   "university_code": "OLHCC",
+   "university_name": "Our Lady of Holy Cross College "
+ },
+ {
+   "university_code": "OLIVET",
+   "university_name": "Olivet Nazarene University "
+ },
+ {
+   "university_code": "OLIVETCOLLEGE",
+   "university_name": "Olivet College "
+ },
+ {
+   "university_code": "OLLUSA",
+   "university_name": "Our Lady of the Lake University "
+ },
+ {
+   "university_code": "OLOLCOLLEGE",
+   "university_name": "Our Lady of the Lake College "
+ },
+ {
+   "university_code": "ONEONTA",
+   "university_name": "College at Oneonta"
+ },
+ {
+   "university_code": "ONU",
+   "university_name": "Ohio Northern University "
+ },
+ {
+   "university_code": "OPSU",
+   "university_name": "Oklahoma Panhandle State University "
+ },
+ {
+   "university_code": "OPTONET",
+   "university_name": "School of Optometry"
+ },
+ {
+   "university_code": "OREGONSTATE",
+   "university_name": "Oregon State University "
+ },
+ {
+   "university_code": "ORL",
+   "university_name": "DeVry University-Orlando "
+ },
+ {
+   "university_code": "ORU",
+   "university_name": "Oral Roberts University "
+ },
+ {
+   "university_code": "OST",
+   "university_name": "Oblate School of Theology "
+ },
+ {
+   "university_code": "PUCPR",
+   "university_name": "Pontificia Universidad Católica de Puerto Rico "
+ },
+ {
+   "university_code": "PUPR",
+   "university_name": "Polytechnic University of Puerto Rico "
+ },
+ {
+   "university_code": "PURCHASE",
+   "university_name": "College at Purchase"
+ },
+ {
+   "university_code": "PURDUE",
+   "university_name": "Purdue University System "
+ },
+ {
+   "university_code": "PURDUE",
+   "university_name": "Purdue University"
+ },
+ {
+   "university_code": "PURDUE",
+   "university_name": "School of Technology at Anderson/Muncie"
+ },
+ {
+   "university_code": "PVAMU",
+   "university_name": "Prairie View A&M University"
+ },
+ {
+   "university_code": "QC",
+   "university_name": "Queens College"
+ },
+ {
+   "university_code": "QUEENS",
+   "university_name": "Queens University of Charlotte "
+ },
+ {
+   "university_code": "QUINCY",
+   "university_name": "Quincy University "
+ },
+ {
+   "university_code": "QUINNIPIAC",
+   "university_name": "Quinnipiac College "
+ },
+ {
+   "university_code": "RADFORD",
+   "university_name": "Radford University "
+ },
+ {
+   "university_code": "RAMAPO",
+   "university_name": "Ramapo College "
+ },
+ {
+   "university_code": "RC",
+   "university_name": "Rochester College "
+ },
+ {
+   "university_code": "RCM",
+   "university_name": "Ciencias Médicas"
+ },
+ {
+   "university_code": "REDLANDS",
+   "university_name": "University of Redlands "
+ },
+ {
+   "university_code": "REED",
+   "university_name": "Reed College "
+ },
+ {
+   "university_code": "REGENT",
+   "university_name": "Regent University "
+ },
+ {
+   "university_code": "REGIS",
+   "university_name": "Regis University "
+ },
+ {
+   "university_code": "REGISCOLLEGE",
+   "university_name": "Regis College "
+ },
+ {
+   "university_code": "REINHARDT",
+   "university_name": "Reinhardt College "
+ },
+ {
+   "university_code": "RHODES",
+   "university_name": "Rhodes College "
+ },
+ {
+   "university_code": "RIC",
+   "university_name": "Rhode Island College "
+ },
+ {
+   "university_code": "RICEINFO",
+   "university_name": "Rice University "
+ },
+ {
+   "university_code": "RIDER",
+   "university_name": "Rider University "
+ },
+ {
+   "university_code": "RIPON",
+   "university_name": "Ripon College "
+ },
+ {
+   "university_code": "SCAD",
+   "university_name": "Savannah College of Art & Design "
+ },
+ {
+   "university_code": "SCCKY",
+   "university_name": "St. Catharine College "
+ },
+ {
+   "university_code": "SCHOOLOFVISUALARTS",
+   "university_name": "School of Visual Arts "
+ },
+ {
+   "university_code": "SCHREINER",
+   "university_name": "Schreiner University "
+ },
+ {
+   "university_code": "SCIARC",
+   "university_name": "Southern California Institute of Architecture "
+ },
+ {
+   "university_code": "SCKANS",
+   "university_name": "Southwestern College "
+ },
+ {
+   "university_code": "SCO",
+   "university_name": "Southern College of Optometry "
+ },
+ {
+   "university_code": "SCOTTLAN",
+   "university_name": "Agnes Scott College "
+ },
+ {
+   "university_code": "SCRIPPSCOL",
+   "university_name": "Scripps College"
+ },
+ {
+   "university_code": "SCSU",
+   "university_name": "South Carolina State University "
+ },
+ {
+   "university_code": "SCU",
+   "university_name": "Santa Clara University "
+ },
+ {
+   "university_code": "SDC",
+   "university_name": "Soujourner-Douglass College "
+ },
+ {
+   "university_code": "SDCC",
+   "university_name": "San Diego Christian College "
+ },
+ {
+   "university_code": "SDSTATE",
+   "university_name": "South Dakota State University "
+ },
+ {
+   "university_code": "SDSU",
+   "university_name": "San Diego State University"
+ },
+ {
+   "university_code": "SEATTLEU",
+   "university_name": "Seattle University "
+ },
+ {
+   "university_code": "SEBC",
+   "university_name": "Southeastern Bible College "
+ },
+ {
+   "university_code": "SELU",
+   "university_name": "Southeastern Louisiana University "
+ },
+ {
+   "university_code": "SEMINARIOEVANGELICOPR",
+   "university_name": "Seminario Evangélico de Puerto Rico "
+ },
+ {
+   "university_code": "SEMO",
+   "university_name": "Southeast Missouri State University "
+ },
+ {
+   "university_code": "SETONHILL",
+   "university_name": "Seton Hill College "
+ },
+ {
+   "university_code": "SEU",
+   "university_name": "Southeastern University "
+ },
+ {
+   "university_code": "SEUNIVERSITY",
+   "university_name": "Southeastern University "
+ },
+ {
+   "university_code": "SEWANEE",
+   "university_name": "University of the South "
+ },
+ {
+   "university_code": "SF",
+   "university_name": "University of Saint Francis "
+ },
+ {
+   "university_code": "SFASU",
+   "university_name": "Stephen F. Austin State University "
+ },
+ {
+   "university_code": "SFBC",
+   "university_name": "South Florida Bible College & Theological Seminary "
+ },
+ {
+   "university_code": "SFSU",
+   "university_name": "San Francisco State University"
+ },
+ {
+   "university_code": "SG",
+   "university_name": "San Germán Campus"
+ },
+ {
+   "university_code": "SHAWNEE",
+   "university_name": "Shawnee State University "
+ },
+ {
+   "university_code": "SHAWUNIVERSITY",
+   "university_name": "Shaw University "
+ },
+ {
+   "university_code": "SHC",
+   "university_name": "Spring Hill College "
+ },
+ {
+   "university_code": "SHELDONJACKSON",
+   "university_name": "Sheldon Jackson College "
+ },
+ {
+   "university_code": "SHENANGO",
+   "university_name": "Shenango"
+ },
+ {
+   "university_code": "SHEPHERD",
+   "university_name": "Shepherd University "
+ },
+ {
+   "university_code": "TRNTY",
+   "university_name": "Trinity Christian College "
+ },
+ {
+   "university_code": "TROY",
+   "university_name": "Troy University "
+ },
+ {
+   "university_code": "TRUETT",
+   "university_name": "Truett-McConnell College "
+ },
+ {
+   "university_code": "TRUMAN",
+   "university_name": "Truman State University "
+ },
+ {
+   "university_code": "TSU",
+   "university_name": "Texas Southern University "
+ },
+ {
+   "university_code": "TTU",
+   "university_name": "Texas Tech University"
+ },
+ {
+   "university_code": "TTUHSC",
+   "university_name": "Health Sciences Center"
+ },
+ {
+   "university_code": "TUFTS",
+   "university_name": "Tufts University "
+ },
+ {
+   "university_code": "TUI",
+   "university_name": "Union Institute & University "
+ },
+ {
+   "university_code": "TULANE",
+   "university_name": "Tulane University "
+ },
+ {
+   "university_code": "TUSCULUM",
+   "university_name": "Tusculum College "
+ },
+ {
+   "university_code": "TUSKEGEE",
+   "university_name": "Tuskegee University "
+ },
+ {
+   "university_code": "TWCNET",
+   "university_name": "Tennessee Wesleyan College "
+ },
+ {
+   "university_code": "TWU",
+   "university_name": "Texas Woman's University "
+ },
+ {
+   "university_code": "TXCHIRO",
+   "university_name": "Texas Chiropractic College "
+ },
+ {
+   "university_code": "TXSTATE",
+   "university_name": "Texas State University-San Marcos "
+ },
+ {
+   "university_code": "TXWES",
+   "university_name": "Texas Wesleyan University "
+ },
+ {
+   "university_code": "UA",
+   "university_name": "Tuscaloosa"
+ },
+ {
+   "university_code": "UAA",
+   "university_name": "Antillean Adventist University "
+ },
+ {
+   "university_code": "UAA",
+   "university_name": "Anchorage"
+ },
+ {
+   "university_code": "UAB",
+   "university_name": "Birmingham"
+ },
+ {
+   "university_code": "UAF",
+   "university_name": "Fairbanks"
+ },
+ {
+   "university_code": "UCHICAGO",
+   "university_name": "University of Chicago "
+ },
+ {
+   "university_code": "UCHSC",
+   "university_name": "Health Sciences Center"
+ },
+ {
+   "university_code": "UCI",
+   "university_name": "Irvine"
+ },
+ {
+   "university_code": "UCLA",
+   "university_name": "Los Angeles"
+ },
+ {
+   "university_code": "UCMERCED",
+   "university_name": "Merced"
+ },
+ {
+   "university_code": "UCOK",
+   "university_name": "University of Central Oklahoma "
+ },
+ {
+   "university_code": "UCOLLEGE",
+   "university_name": "Union College "
+ },
+ {
+   "university_code": "UCONN",
+   "university_name": "University of Connecticut "
+ },
+ {
+   "university_code": "UCOP",
+   "university_name": "University of California System "
+ },
+ {
+   "university_code": "UCR",
+   "university_name": "Riverside"
+ },
+ {
+   "university_code": "UCSB",
+   "university_name": "Santa Barbara"
+ },
+ {
+   "university_code": "UCSC",
+   "university_name": "Santa Cruz"
+ },
+ {
+   "university_code": "UCSD",
+   "university_name": "San Diego"
+ },
+ {
+   "university_code": "UCSF",
+   "university_name": "San Francisco"
+ },
+ {
+   "university_code": "UCWV",
+   "university_name": "University of Charleston "
+ },
+ {
+   "university_code": "UDALLAS",
+   "university_name": "University of Dallas "
+ }
+]

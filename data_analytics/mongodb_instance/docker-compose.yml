@@ -1,0 +1,14 @@
+version: "2"
+services:
+  mongodb_instance:
+    build: .
+    ports:
+      - "8080:8080"
+    links:
+      - mongo
+  mongo:
+    image: mongo
+    volumes:
+      - /data/app4:/data/app4
+    ports:
+      - "27017:27017"

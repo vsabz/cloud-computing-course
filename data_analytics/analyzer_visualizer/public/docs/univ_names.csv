@@ -1,0 +1,541 @@
+university_code,university_name
+AA,Altoona
+AAMU,Alabama A&M University 
+AB,Alderson-Broaddus College 
+ABCONLINE,Arlington Baptist College 
+ABINGTON,Abington
+ABOUT,Ferris State University 
+ACA,Atlanta College of Art 
+ACC,Atlanta Christian College 
+ACME,High Point University 
+ACP,Albany College of Pharmacy 
+ACU,Abilene Christian University 
+ADAMS,Adams State College 
+ADELPHI,Adelphi University 
+ADLER,Adler School of Professional Psychology 
+ADRIAN,Adrian College 
+AFIT,Air Force Institute of Technology 
+AGUADILLA,Aguadilla Campus
+AIC,American International College 
+AICAG,American Indian College of the Assemblies of God 
+AIUNIV,American InterContinental University 
+AKBIBLE,Alaska Bible College 
+ALASKA,University of Alaska System 
+ALASKAPACIFIC,Alaska Pacific University 
+ALASU,Alabama State University 
+ALBANY,Albany
+ALBERTSON,Albertson College of Idaho 
+ALBERTUS,Albertus Magnus College 
+ALBION,Albion College 
+ALBIZU,Carlos Albizu University 
+ALBRIGHT,Albright College 
+ALC,Alice Lloyd College 
+ALCORN,Alcorn State University 
+ALFRED,Alfred University 
+ALFREDADLER,Alfred Adler Institute 
+ALFREDSTATE,College of Technology at Alfred 
+ALLEG,Allegheny College 
+ALLENCOLLEGE,Allen College
+ARIZONA,University of Arizona 
+ASTATE,Arkansas State University
+ASU,Arizona State University 
+ASUWEB,Albany State University
+ATHENS,Athens State University 
+ATL,DeVry University-Georgia 
+BINGHAMTON,Binghamton
+BIOLA,Biola University 
+BJU,Bob Jones University 
+BK,Berks
+BLACKBURN,Blackburn College 
+BLC,Bethany Lutheran College 
+BLOOMFIELD,Bloomfield College 
+BLOOMU,Bloomsburg University of Pennsylvania 
+BLUEFIELD,Bluefield College 
+BLUEFIELD,Bluefield State College 
+BLUFFTON,Bluffton University 
+BMATS,Baptist Missionary Association Theological Seminary 
+BMC,Blue Mountain College 
+BORICUACOLLEGE,Boricua College 
+BOSTONCONSERVATORY,Boston Conservatory 
+BOWDOIN,Bowdoin College 
+BOWIESTATE,Bowie State University 
+BPC,Brewton-Parker College 
+BR,Beaver
+BR,Barranquitas Campus
+BRADLEY,Bradley University 
+BRANDEIS,Brandeis University 
+BRENAU,Brenau University 
+BRESCIA,Brescia University 
+BREVARD,Brevard College 
+BRIARCLIFF,Briar Cliff College 
+BRIDGEPORT,University of Bridgeport 
+BRIDGEW,Bridgewater State College 
+BRIDGEWATER,Bridgewater College 
+BROCKPORT,College at Brockport
+BROOKLYN,Brooklyn College
+BROOKLYN,Brooklyn Campus
+BROWN,Brown University 
+BRYAN,Bryan College 
+BRYANT,Bryant College 
+BRYNATHYN,Bryn Athyn College of the New Church 
+BRYNMAWR,Bryn Mawr College 
+BSC,Birmingham-Southern College 
+BSU,Ball State University 
+BU,Boston University 
+BUCKNELL,Bucknell University 
+BUFFALO,Buffalo
+BUFFALOSTATE,College at Buffalo 
+BURLCOL,Burlington College 
+BUTLER,Butler University 
+BVU,Buena Vista University 
+BW,Baldwin-Wallace College 
+BYU,Brigham Young University 
+BYUH,Brigham Young University-Hawaii 
+BYUI,Brigham Young University-Idaho 
+CABRINI,Cabrini College 
+CALTECH,California Institute of Technology 
+CALUMET,Purdue University Calumet
+CALVARY,Calvary Bible College & Theological Seminary 
+CALVIN,Calvin College 
+CAMBRIDGECOLLEGE,Cambridge College 
+CAMDEN,Camden
+CAMEL,Connecticut College 
+CAMERON,Cameron University 
+CAMPBELL,Campbell University 
+CAMPBELLSVILLE,Campbellsville University 
+CANISIUS,Canisius College 
+CANTON,College of Technology at Canton
+CAPELLA,Capella University 
+CAPITAL,Capital University 
+CAPITOL-COLLEGE,Capitol College 
+CARIBBEAN,Caribbean University 
+CARLETON,Carleton College 
+CARLISLE,United States Army War College 
+CARLOW,Carlow College 
+CARROLL,Carroll College 
+CARTHAGE,Carthage College 
+CATAWBA,Catawba College 
+CAU,Clark Atlanta University 
+CAYEY,Cayey
+CAZENOVIA,Cazenovia College 
+CBC,Central Baptist College 
+CBCAG,Central Bible College 
+CBU,Christian Brothers University 
+CC,Carroll College 
+CCA,California College of the Arts 
+CCAD,Columbus College of Art & Design 
+CCBBC,Clear Creek Baptist Bible College 
+CCCB,Central Christian College of the Bible 
+CCIS,Columbia College 
+CCNY,City College
+CCSCAD,College for Creative Studies 
+CCSJ,Calumet College of St. Joseph 
+CCSU,Central Connecticut State University 
+CCU,Colorado Christian University 
+CCUNIVERSITY,Cincinnati Christian University 
+CDREWU,Charles R. Drew University of Medicine & Science 
+CDSP,Church Divinity School of the Pacific 
+CEDARCREST,Cedar Crest College 
+CEDARVILLE,Cedarville University 
+CENTENARY,Centenary College of Louisiana 
+CENTENARYCOLLEGE,Centenary College 
+CENTRAL,Central College 
+CENTRALCOLLEGE,Central Christian College 
+CENTRALMETHODIST,Central Methodist University 
+CENTRALSTATE,Central State University 
+CENTRE,Centre College 
+CEU,College of Eastern Utah 
+CGU,Claremont Graduate University
+CHAMINADE,Chaminade University 
+CHAMPLAIN,Champlain College 
+CHAPMAN,Chapman University 
+CHARTEROAK,Charter Oak State College 
+CHATHAM,Chatham College 
+CHC,Chestnut Hill College 
+CHESAPEAKE,Chesapeake College 
+CHESTERCOLLEGE,Chester College of New England 
+CHEYNEY,Cheyney University 
+CHI,DeVry University-Chicago 
+CHIPOLA,Chipola College 
+CHOWAN,Chowan College 
+CHRISTENDOM,Christendom College 
+CIA,Cleveland Institute of Art 
+CIACHEF,Culinary Institute of America 
+CIIS,California Institute of Integral Studies 
+CIM,Cleveland Institute of Music 
+CITADEL,The Citadel 
+CITYTECH,New York City College of Technology
+CITYU,City University 
+CIU,Columbia International University 
+CLAFLIN,Claflin University 
+CLAREMONT,Claremont Consortium of Colleges 
+CLARION,Clarion University of Pennsylvania 
+CLARKE,Clarke College 
+CLARKSON,Clarkson University 
+CLARKSONCOLLEGE,Clarkson College 
+CLARKU,Clark University 
+CLAYTON,Clayton College & State University
+CLEARWATER,Clearwater Christian College 
+CLEARY,Cleary College 
+CLEMSON,Clemson University 
+CLEVELAND,Cleveland Chiropractic College 
+FAJARDO,Fajardo Campus
+FAMU,Florida Agricultural & Mechanical University 
+FANDM,Franklin & Marshall College 
+FARMINGDALE,College of Technology at Farmingdale 
+FAU,Florida Atlantic University 
+FAULKNER,Faulkner University 
+FCC,Florida Christian College 
+FDU,Fairleigh Dickinson University 
+FE,Fayette
+FELICIAN,Felician College 
+FERRUM,Ferrum College 
+FGCU,Florida Gulf Coast University 
+FHCHS,Florida Hospital College of Health Sciences 
+FHSU,Fort Hays State University 
+FHU,Freed-Hardeman University 
+FIELDING,Fielding Graduate Institute 
+FINDLAY,The University of Findlay 
+FINLANDIA,Finlandia University 
+FISK,Fisk University 
+FIT,Florida Institute of Technology 
+FITNYC,Fashion Institute of Technology
+FIU,Florida International University 
+GBOROCOLLEGE,Greensboro College 
+GC,Graduate School & University Center
+GCC,Grove City College 
+GCSU,Georgia College & State University
+GCU,Grand Canyon University 
+GENEVA,Geneva College 
+GEORGEFOX,George Fox University 
+GEORGEMEANY,National Labor College 
+GEORGETOWN,Georgetown University 
+GEORGETOWNCOLLEGE,Georgetown College 
+GEORGIAN,Georgian Court College 
+GEORGIASOUTHERN,Georgia Southern University
+GETTYSBURG,Gettysburg College 
+GGU,Golden Gate University 
+GLENVILLE,Glenville State College 
+GMC,Gwynedd Mercy College 
+GMU,George Mason University 
+GODDARD,Goddard College 
+GOLDEY,Goldey-Beacom College 
+GONZAGA,Gonzaga University 
+HAMPTONU,Hampton University 
+HANOVER,Hanover College 
+HARDING,Harding University 
+HARTFORD,University of Hartford 
+HARTWICK,Hartwick College 
+HARVARD,Harvard University 
+HASKELL,Haskell Indian Nations University 
+HASTINGS,Hastings College 
+HAVERFORD,Haverford College in Pennsylvania 
+HAWAII,University of Hawaii System 
+HBG,Harrisburg
+HBU,Houston Baptist University 
+HCC-ND,Holy Cross College 
+HEALTHSCIENCES,Center for Health Sciences
+HEIDELBERG,Heidelberg College 
+HENDRIX,Hendrix College 
+HENRYCOGSWELL,Henry Cogswell College 
+HERITAGE,Heritage University 
+HESSTON,Hesston College 
+HGC,Rensselaer at Hartford 
+HILBERT,Hilbert College 
+HILLSDALE,Hillsdale College 
+HIRAM,Hiram College 
+HIU,Hope International University 
+HLG,Hannibal-Lagrange College 
+HMC,Harvey Mudd College
+HMC,College of Medicine
+HN,Hazleton
+ILSTU,Illinois State University 
+IMMACULATA,Immaculata College 
+INDIANA,Indiana University System 
+INDIANATECH,Indiana Institute of Technology 
+INDWES,Indiana Wesleyan University 
+INFOEAGLE,Boston College 
+INTER,Universidad Interamericana de Puerto Rico 
+INTERNATIONALCOLLEGE,International College 
+IONA,Iona College 
+IPFW,Indiana University/Purdue University at Fort Wayne
+IPFW,Indiana University/Purdue University at Fort Wayne
+IPSCIENCES,Institute for the Psychological Sciences 
+IPST,Institute of Paper Science & Technology 
+ISU,Idaho State University 
+ITC,Interdenominational Theological Center 
+ITHACA,Ithaca College 
+ITP,Institute of Transpersonal Psychology 
+ITT,Institute of Textile Technology 
+IUB,Indiana University-Bloomington
+IUE,Indiana University-East
+IUK,Indiana University-Kokomo
+IUN,Indiana University-Northwest
+JBU,John Brown University 
+JC,Jamestown College 
+JCHS,Jefferson College of Health Sciences 
+JCSU,Johnson C. Smith University 
+JCU,John Carroll University 
+JEFFERSON,Thomas Jefferson University 
+JESSUP,William Jessup University 
+JEWELL,William Jewell College 
+JFKU,John F. Kennedy University 
+JHU,Johns Hopkins University 
+JJAY,John Jay College of Criminal Justice
+JMU,James Madison University 
+JONES,Jones College 
+JONESINTERNATIONAL,Jones International University 
+JSC,Johnson State College 
+JSTB,Jesuit School of Theology at Berkeley 
+JSU,Jacksonville State University 
+JSUMS,Jackson State University 
+JTSA,The Jewish Theological Seminary of America 
+JU,Jacksonville University 
+JUDSONCOLLEGE,Judson College 
+JUILLIARD,The Juilliard School 
+JUNIATA,Juniata College 
+JWU,Johnson & Wales University 
+JWU,Johnson & Wales University-Charleston 
+KAPLAN,Kaplan University 
+KC,DeVry University-Kansas City 
+KCAD,Kendall College of Art & Design 
+KCOM,Kirksville College of Osteopathic Medicine 
+KCU,Kentucky Christian University 
+KEAN,Kean University 
+KEENE,Keene State College 
+KEISERCOLLEGE,Keiser College 
+KENDALL,Kendall College 
+KENNESAW,Kennesaw State University
+KENT,Kent State University 
+KENYON,Kenyon College 
+KETTERING,Kettering University 
+KEUKA,Keuka College 
+KEYSTONE,Keystone College 
+KGI,Keck Graduate Institute of Applied Life Sciences
+KING,King College 
+KINGS,King's College 
+KMBC,Kentucky Mountain Bible College 
+KNOX,Knox College 
+KNOXVILLECOLLEGE,Knoxville College
+K-STATE,Kansas State University 
+KU,University of Kansas 
+KUMC,University of Kansas Medical Center 
+KUTZTOWN,Kutztown University of Pennsylvania 
+KUYPER,Kuyper College 
+KWC,Kentucky Wesleyan College 
+KWU,Kansas Wesleyan University 
+KYSU,Kentucky State University 
+KZOO,Kalamazoo College 
+LACOLLEGE,Louisiana College 
+LAFAYETTE,Lafayette College 
+LAGRANGE,LaGrange College 
+LAKEFOREST,Lake Forest College 
+LAKEFORESTMBA,Lake Forest Graduate School of Management 
+LAKELAND,Lakeland College 
+LAKEVIEWCOL,Lakeview College of Nursing 
+LAMAR,Lamar University 
+LAMBUTH,Lambuth University 
+LANDER,Lander University 
+LANECOLLEGE,Lane College 
+LAROCHE,La Roche College 
+LASALLE,LaSalle University 
+LASELL,Lasell College 
+LASIERRA,La Sierra University 
+LATECH,Louisiana Tech University 
+MA,Mont Alto
+MAC,McMurray College 
+MACALESTER,Macalester College 
+MACDB,Embry-Riddle Aeronautical University 
+MACONSTATE,Macon State College
+MACU,Mid-America Christian University 
+MADONNA,Madonna University 
+MAGNOLIA,Magnolia Bible College 
+MAINE,University of Maine System 
+MAINELAW,School of Law
+MAINEMARITIME,Maine Maritime Academy 
+MALONE,Malone College 
+MANCHESTER,Manchester College 
+MANHATTAN,Manhattan College 
+MANSFIELD,Mansfield University of Pennsylvania 
+MANSFIELD,Mansfield
+MARIAN,Marian College 
+MCU,United States Marine Corps University 
+MCU,Marine Corps University 
+MCW,Medical College of Wisconsin 
+MDANDERSON,M.D. Anderson Cancer Center
+MEC,Medger Evers College
+MECA,Maine College of Art 
+MTECH,Montana Tech
+MTHOLYOKE,Mount Holyoke College 
+MTMARY,Mount Mary College 
+MTMC,Mount Marty College 
+MTMERCY,Mount Mercy College 
+MTSU,Middle Tennessee State University 
+MTU,Michigan Technological University 
+MU,Marquette University 
+MUC,Mount Union College 
+MUHLBERG,Muhlenberg College 
+MULTNOMAH,Multnomah Bible College & Seminary 
+MUM,Maharishi University of Management 
+MURRAYSTATE,Murray State University 
+MUSC,Medical University of South Carolina 
+MUSKINGUM,Muskingum College 
+MUW,Mississippi University for Women 
+MUWEB,Millersville University of Pennsylvania 
+NIU,Northern Illinois University 
+NJCU,New Jersey City University 
+NJIT,New Jersey Institute of Technology 
+NK,New Kensington
+NKU,Northern Kentucky University 
+NL,National-Louis University 
+NMHU,New Mexico Highlands University 
+NMSU,New Mexico State University 
+NMT,New Mexico Institute of Mining & Technology 
+NMU,Northern Michigan University 
+NNU,Northwest Nazarene University 
+NOBTS,New Orleans Baptist Theological Seminary 
+NOCTRL,North Central College 
+NORTHCENTRAL,North Central University 
+NORTHEASTERN,Northeastern University 
+NORTHERN,Northern State University 
+NORTHLAND,Northland College 
+NORTHPARK,North Park University 
+NORTHWESTERN,Northwestern University 
+NORTHWESTU,Northwest University 
+NORTHWOOD,Northwood University 
+NORWICH,Norwich University 
+NOTREDAMECOLLEGE,Notre Dame College 
+NOVA,Nova Southeastern University 
+NPS,Naval Postgraduate School 
+NSU,Norfolk State University 
+NSUBA,Broken Arrow campus
+NSULA,Northwestern State University of Louisiana 
+NSUOK,Northeastern State University 
+NSUOK,Muskogee campus
+NTU,National Technological University 
+NU,National University 
+OGI,Oregon Graduate Institute of Science & Technology 
+OGLETHORPE,Oglethorpe University 
+OHIO,Ohio University 
+OHIODOMINICAN,Ohio Dominican University 
+OHSU,Oregon Health Sciences University 
+OIT,Oregon Institute of Technology 
+OKBU,Oklahoma Baptist University 
+OKCU,Oklahoma City University 
+OKSTATE,Stillwater
+OKWU,Oklahoma Wesleyan University 
+OLC,Oglala Lakota College 
+OLDWESTBURY,College at Old Westbury
+OLEMISS,University of Mississippi 
+OLHCC,Our Lady of Holy Cross College 
+OLIVET,Olivet Nazarene University 
+OLIVETCOLLEGE,Olivet College 
+OLLUSA,Our Lady of the Lake University 
+OLOLCOLLEGE,Our Lady of the Lake College 
+ONEONTA,College at Oneonta
+ONU,Ohio Northern University 
+OPSU,Oklahoma Panhandle State University 
+OPTONET,School of Optometry
+OREGONSTATE,Oregon State University 
+ORL,DeVry University-Orlando 
+ORU,Oral Roberts University 
+OST,Oblate School of Theology 
+PUCPR,Pontificia Universidad Católica de Puerto Rico 
+PUPR,Polytechnic University of Puerto Rico 
+PURCHASE,College at Purchase
+PURDUE,Purdue University System 
+PURDUE,Purdue University
+PURDUE,School of Technology at Anderson/Muncie
+PVAMU,Prairie View A&M University
+QC,Queens College
+QUEENS,Queens University of Charlotte 
+QUINCY,Quincy University 
+QUINNIPIAC,Quinnipiac College 
+RADFORD,Radford University 
+RAMAPO,Ramapo College 
+RC,Rochester College 
+RCM,Ciencias Médicas
+REDLANDS,University of Redlands 
+REED,Reed College 
+REGENT,Regent University 
+REGIS,Regis University 
+REGISCOLLEGE,Regis College 
+REINHARDT,Reinhardt College 
+RHODES,Rhodes College 
+RIC,Rhode Island College 
+RICEINFO,Rice University 
+RIDER,Rider University 
+RIPON,Ripon College 
+SCAD,Savannah College of Art & Design 
+SCCKY,St. Catharine College 
+SCHOOLOFVISUALARTS,School of Visual Arts 
+SCHREINER,Schreiner University 
+SCIARC,Southern California Institute of Architecture 
+SCKANS,Southwestern College 
+SCO,Southern College of Optometry 
+SCOTTLAN,Agnes Scott College 
+SCRIPPSCOL,Scripps College
+SCSU,South Carolina State University 
+SCU,Santa Clara University 
+SDC,Soujourner-Douglass College 
+SDCC,San Diego Christian College 
+SDSTATE,South Dakota State University 
+SDSU,San Diego State University
+SEATTLEU,Seattle University 
+SEBC,Southeastern Bible College 
+SELU,Southeastern Louisiana University 
+SEMINARIOEVANGELICOPR,Seminario Evangélico de Puerto Rico 
+SEMO,Southeast Missouri State University 
+SETONHILL,Seton Hill College 
+SEU,Southeastern University 
+SEUNIVERSITY,Southeastern University 
+SEWANEE,University of the South 
+SF,University of Saint Francis 
+SFASU,Stephen F. Austin State University 
+SFBC,South Florida Bible College & Theological Seminary 
+SFSU,San Francisco State University
+SG,San Germán Campus
+SHAWNEE,Shawnee State University 
+SHAWUNIVERSITY,Shaw University 
+SHC,Spring Hill College 
+SHELDONJACKSON,Sheldon Jackson College 
+SHENANGO,Shenango
+SHEPHERD,Shepherd University 
+TRNTY,Trinity Christian College 
+TROY,Troy University 
+TRUETT,Truett-McConnell College 
+TRUMAN,Truman State University 
+TSU,Texas Southern University 
+TTU,Texas Tech University
+TTUHSC,Health Sciences Center
+TUFTS,Tufts University 
+TUI,Union Institute & University 
+TULANE,Tulane University 
+TUSCULUM,Tusculum College 
+TUSKEGEE,Tuskegee University 
+TWCNET,Tennessee Wesleyan College 
+TWU,Texas Woman's University 
+TXCHIRO,Texas Chiropractic College 
+TXSTATE,Texas State University-San Marcos 
+TXWES,Texas Wesleyan University 
+UA,Tuscaloosa
+UAA,Antillean Adventist University 
+UAA,Anchorage
+UAB,Birmingham
+UAF,Fairbanks
+UCHICAGO,University of Chicago 
+UCHSC,Health Sciences Center
+UCI,Irvine
+UCLA,Los Angeles
+UCMERCED,Merced
+UCOK,University of Central Oklahoma 
+UCOLLEGE,Union College 
+UCONN,University of Connecticut 
+UCOP,University of California System 
+UCR,Riverside
+UCSB,Santa Barbara
+UCSC,Santa Cruz
+UCSD,San Diego
+UCSF,San Francisco
+UCWV,University of Charleston 
+UDALLAS,University of Dallas 

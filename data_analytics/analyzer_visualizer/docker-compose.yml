@@ -1,0 +1,6 @@
+version: "2"
+services:
+  analyzer_visualizer:
+    build: .
+    ports:
+      - "80:3012"

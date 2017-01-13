@@ -1,0 +1,169 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Lato", sans-serif;
+    color: #777;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+    position: relative;
+    opacity: 0.90;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bgimg-1 {
+    background-image: url("/images/img_parallax.jpg");
+    min-height: 100%;
+}
+
+.bgimg-2 {
+    background-color: #306D9F;
+    min-height: 500px;
+}
+
+.bgimg-3 {
+    background-color: #ffffff;
+    min-height: 500px;
+}
+
+.caption {
+    position: absolute;
+    left: 0;
+    top: 20px;
+    width: 100%;
+    border-bottom: solid;
+    text-align: center;
+    font-weight: 700;
+}
+.caption2 {
+    left: 0;
+    top: 20px;
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+}
+.caption span.border {
+
+    color: #111;
+    padding: 18px;
+    font-size: 35px;
+    letter-spacing: 10px;
+}
+.caption span.border2 {
+
+    color: #111;
+    padding: 18px;
+    font-size: 35px;
+}
+h3 {
+
+    font: 20px "Lato", sans-serif;
+    color: #111;
+}
+/* vertical-centered text */
+.text-vcenter {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+.text-vcenter h1 {
+    font-size: 4.5em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    color: #111;
+}
+
+.text-vcenter h3 {
+
+    font-weight: 650;
+    margin: 0;
+    padding: 0;
+    color: #000;
+}
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
+.glyphicon {
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 60px;
+    height: 140px;
+    line-height: 140px;
+    text-align: center;
+    vertical-align:middle;
+    align-items: center;
+    align-content: center;
+    width: 140px;
+}
+.glyphicon:hover {
+    color: #e0e0e0;
+    cursor: pointer;
+}
+/* Dropdown Button */
+.dropbtn {
+    background-color: #f1f1f1;
+    color: #437AA7;
+    font-weight: 600;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 500px;
+    height: 50px;
+    border-radius: 25px;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 500px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    overflow-y: scroll;
+    border-radius: 25px;
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #437AA7;
+    color:white;
+}

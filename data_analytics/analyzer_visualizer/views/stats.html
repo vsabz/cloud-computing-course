@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+</style>
+  <title>GEMS-TUM: Statistics</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- jQuery UI -->
+  <link href="https://code.jquery.com/ui/1.10.3/themes/redmond/jquery-ui.css" rel="stylesheet" media="screen">
+    <link rel="shortcut icon" type="image/png" href="/images/fav.png"/>
+  <link href="/stylesheets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/stylesheets/style.css" rel="stylesheet">
+  <link href="/stylesheets/style2.css" rel="stylesheet">
+  <script src="/javascripts/uniList.js"></script>
+  <!--
+  <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script> -->
+  <script type="text/javascript" src="/socket.io/socket.io.js"></script>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script src="http://d3js.org/d3.v2.min.js"></script>
+  <script src="/javascripts/nv.d3.js"></script>
+  <script src="/javascripts/getDataUniv.js"></script>
+
+  <style>
+    .no-js .loader { display: none;  }
+    .js .loader { display: block; position: relative; }
+    #myInst
+    {
+      display: none;
+    }
+    .loader {
+      position: relative;
+      margin: 0 auto;
+      left: 0px;
+      top: 150px;
+      width: 100px;
+      height: 100px;
+      z-index: 9999;
+      border: 16px solid #f3f3f3; /* Light grey */
+      border-top: 16px solid #3498db; /* Blue */
+      border-top: 16px solid #3498db; /* Blue */
+      border-radius: 50%;
+      animation: spin 2s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    </style>
+  <script src="https://code.highcharts.com/stock/highstock.js"></script>
+  <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+
+  <link href="/stylesheets/nv.d3.css" rel="stylesheet" type="text/css">
+  <!--<script src="/javascripts/d3.v3.js"></script>-->
+  <!--read the university names from CSV -->
+  <script>
+      d3.csv("/docs/univ_names.csv", function(data) {
+          var select = d3.select("#myDropdown")
+
+          select
+              .on("Click", function(d) {
+                  var value = d3.select(this).property("value");
+                  getData(value);
+              });
+
+          select.selectAll("option")
+              .data(data)
+              .enter()
+              .append("a")
+              .attr("href",function (d) { return "#base"; })
+              .attr("onclick",function (d) { return "getData(\'"+d.university_code+"\');"; })
+              .text(function (d) { return d.university_name; });
+      });
+  </script>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+
+  <![endif]-->
+  <script type="text/javascript">
+
+      //paste this code under the head tag or in a separate js file.
+      // Wait for window load
+      $(window).load(function() {
+          // Animate loader off screen
+          $(".se-pre-con").fadeOut("slow");;
+      });
+  </script>
+</head>
+<body onload="getData('AA');">
+<div class="container example5">
+  <div class="header2">
+    <nav class="navbar navbar-default">
+    <div class="container-fluid">
+
+      <div class="navbar-header" style="text-align: center">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar5">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a  href="index.html"><img src="/images/tum-logo.png" alt=""></a>
+
+
+        <div  class="navbar-brand"  style="margin-left: 200px; color: #437AA7;">Graduate Statistics</div>
+        <div  class="navbar-brand" >Cloud Computing Dashboard</div>
+      </div>
+      <div id="navbar5" class="navbar-collapse collapse" style="float: right; margin-top: 5px; ">
+        <div class="dropdown" >
+          <button class="dropbtn">Select University</button>
+          <div id = "myDropdown" style="height: 400px; font-size: 14px;" class="dropdown-content">
+              <input type="text"  style="width: 100%; font-size: 14px;" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+              <a href="#" onclick="getData('UCLA');">University of California [UCLA]</a>
+              <a href="#">Irvine [UCI]</a>
+              <a href="#" onclick="getData('TUM');">Technical university Munich [TUM]</a>
+          </div>
+        </div>
+      </div>
+      </div>
+      <!--/.nav-collapse -->
+    <!--/.container-fluid -->
+  </nav>
+  </div>
+</div>
+<div id="home" class="bgimg-1" style="align-content: center; align-items: center; text-align: center; overflow-y:scroll;">
+
+  <div class="caption" style="border-bottom: solid; border-bottom-color: #2b669a;margin-top:50px; ">
+    <span class="border" style="background-color:transparent; margin-left:0px;font-size:20px;color: #437AA7;">Employment Rate</span>
+  </div>
+  <div style="margin-top: 50px;">
+  <div class="col-md-6">
+  <div class="caption2">
+    <span class="border2">
+      <div class="content-box-large" style=" height: 450px; margin-top:14%;" >
+
+          <div class="panel-body"  >
+            <!--<div id="barChart" style="height: 300px;overflow-y:scroll; ">-->
+            <!--</div>-->
+            <div class="loader"></div>
+            <div id="barChart" style="height: 350px; margin: 0 auto"></div>
+
+          </div>
+
+
+      </div>
+
+    </span>
+  </div>
+    </div>
+  <div class="col-md-6">
+
+  <div class="caption2">
+    <span class="border2">
+      <div class="content-box-large" style=" height: 450px; margin-top:14%;">
+          <div class="panel-body">
+            <!--<div id="barChart" style="height: 300px;overflow-y:scroll; ">-->
+            <!--</div>-->
+            <div class="loader"></div>
+            <div id="bachelorRate" style="height: 350px;"></div>
+          </div>
+
+
+      </div>
+
+    </span>
+  </div>
+</div>
+  </div>
+  <div class="col-md-6">
+    <div class="caption2">
+    <span class="border2">
+      <div class="content-box-large" style=" height: 450px; margin-top:5%;" >
+
+          <div class="panel-body">
+            <!--<div id="barChart" style="height: 300px;overflow-y:scroll; ">-->
+            <!--</div>-->
+            <div class="loader"></div>
+            <div id="femaleRate" style="height: 350px;"></div>
+          </div>
+
+
+      </div>
+
+    </span>
+    </div>
+  </div>
+  <div class="col-md-6">
+
+    <div class="caption2">
+    <span class="border2">
+      <div class="content-box-large" style=" height: 450px; margin-top:5%;">
+          <div class="panel-body">
+            <!--<div id="barChart" style="height: 300px;overflow-y:scroll; ">-->
+            <!--</div>-->
+            <div class="loader"></div>
+            <div id="maleRate" style="height: 350px;"></div>
+          </div>
+
+
+      </div>
+
+    </span>
+    </div>
+  </div>
+
+
+</div>
+
+<div id="about" class="bgimg-3" style="align-content: center; min-height: 70%; align-items: center; text-align: center; overflow-y:scroll;">
+  <div class="caption">
+    <span class="border" style="background-color:transparent; font-size:20px;color: #000; border-bottom-color: #000">Number of Students</span>
+  </div>
+  <div class="caption2">
+    <span class="border2">
+      <div class="col-md-6">
+        <div class="content-box-large" style=" height: 550px; margin-top:14%;">
+          <div class="panel-body">
+            <div class="loader"></div>
+            <div id="masterPie" style="height:450px; ">
+            <!--<svg id="test1" class="mypiechart" style="height:500px;"></svg>-->
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="content-box-large" style=" height: 550px;margin-top:14%;">
+
+            <div class="panel-body">
+              <div class="loader"></div>
+              <div id="bachelorPie" style="height:450px">
+                  <!--<svg id="test1" class="mypiechart" style="height:500px;"></svg>-->
+              </div>
+            </div>
+        </div>
+      </div>
+    </span>
+  </div>
+</div>
+
+<div id="service" class="bgimg-2" style="align-content: center; align-items: center; text-align: center; overflow-y:scroll;">
+  <div class="caption" style="border-bottom-color: #f7f7f7">
+    <span class="border" style="background-color:transparent;font-size:20px;color: #FFFFFF;">Average Salary</span>
+  </div>
+  <div class="caption2" >
+
+
+        <div class="col-md-6" style="margin-top: 5%;">
+    <div class="caption2">
+    <span class="border2">
+      <div class="content-box-large" style=" height: 450px; margin-top:5%; " >
+        <div class="panel-heading">
+      <!--<div class="panel-title">Female Employment Rate</div>-->
+    </div>
+          <div class="panel-body">
+            <!--<div id="barChart" style="height: 300px;overflow-y:scroll; ">-->
+            <!--</div>-->
+            <div class="loader"></div>
+            <div id="MasterAvgSalary" style="height: 350px;"></div>
+          </div>
+
+
+      </div>
+
+    </span>
+    </div>
+  </div>
+  <div class="col-md-6" style="margin-top: 5%;">
+
+    <div class="caption2">
+    <span class="border2">
+      <div class="content-box-large" style=" height: 450px; margin-top:5%; ">
+        <div class="panel-heading">
+      <!--<div class="panel-title">Male Employment Rate</div>-->
+    </div>
+          <div class="panel-body">
+            <!--<div id="barChart" style="height: 300px;overflow-y:scroll; ">-->
+            <!--</div>-->
+            <div class="loader"></div>
+            <div id="BachelorAvgSalary" style="height: 350px;"></div>
+          </div>
+
+
+      </div>
+
+    </span>
+    </div>
+  </div>
+
+
+
+  </div>
+</div>
+
+<div style="position: fixed; bottom: 0px; float: left; z-index: 999">
+  <a href=" index.html"><img src="/images/home.ico" style="width: 50px; height:50px; "></a>
+</div>
+<footer>
+  <div class="container">
+    <div class="copy text-center">
+      &copy 2016 Cloud Computing
+      <br>Designed and Developed by <a href='#'>Data_Analytics_Team</a>
+    </div>
+  </div>
+</footer>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://code.jquery.com/jquery.js"></script>
+<!-- jQuery UI -->
+<script src="https://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="/stylesheets/bootstrap/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="vendors/morris/morris.css">
+
+</body>
+</html>

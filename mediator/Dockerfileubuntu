@@ -1,0 +1,15 @@
+FROM ubuntu:latest
+RUN apt-get -qq update
+RUN apt-get -qq -y install nodejs
+RUN apt-get -qq -y install npm
+#RUN apt-get -qq -y install nodejs-legacy
+RUN npm -y init
+
+RUN npm install express --save
+RUN npm install body-parser
+#RUN npm install jsonfile
+#RUN npm install hashes
+
+COPY express.js /home/
+COPY merge.js /home/
+COPY server.js /home/

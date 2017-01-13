@@ -1,0 +1,19 @@
+{
+  "name": "app4_data_collection",
+  "version": "1.0.0",
+  "description": "application for collection of data from app2 and storing in mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anshul.jindal@tum.de",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bower": "^1.8.0",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.12",
+    "request": "^2.79.0",
+    "socket.io": "^1.7.1"
+  }
+}
